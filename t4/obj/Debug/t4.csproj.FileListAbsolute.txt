@@ -1,0 +1,10 @@
+C:\Users\玠\source\repos\t4\t4\obj\Debug\t4.csprojAssemblyReference.cache
+C:\Users\玠\source\repos\t4\t4\obj\Debug\t4.Form1.resources
+C:\Users\玠\source\repos\t4\t4\obj\Debug\t4.Properties.Resources.resources
+C:\Users\玠\source\repos\t4\t4\obj\Debug\t4.csproj.GenerateResource.cache
+C:\Users\玠\source\repos\t4\t4\obj\Debug\t4.csproj.CoreCompileInputs.cache
+C:\Users\玠\source\repos\t4\t4\bin\Debug\t4.exe.config
+C:\Users\玠\source\repos\t4\t4\bin\Debug\t4.exe
+C:\Users\玠\source\repos\t4\t4\bin\Debug\t4.pdb
+C:\Users\玠\source\repos\t4\t4\obj\Debug\t4.exe
+C:\Users\玠\source\repos\t4\t4\obj\Debug\t4.pdb
